@@ -1,6 +1,6 @@
 # master-chef
 
-my recipe momos :-
+my recipe for momos :-
 
  Step 1 Prepare the vegetable stuffing
 To prepare this exotic delight, first prepare the vegetable filling. To do so finely chop onion, garlic, ginger, mushroom, tofu, cabbage and cilantro. Once done mix all these vegetables in a bowl. Add soy sauce in the bowl and toss the vegetables to combine them well. Keep aside for further use.
